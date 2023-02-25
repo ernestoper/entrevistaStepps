@@ -1,0 +1,14 @@
+# Algorithm
+
+yolov5
+# Outputs archive
+runs
+inference
+
+# Video file
+teste.mp4
+
+
+# Virtual Environment
+venv
+
